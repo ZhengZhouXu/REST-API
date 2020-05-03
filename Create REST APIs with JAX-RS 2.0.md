@@ -181,6 +181,6 @@ JAX-RS专注于将Java批注（annotations）应用于纯Java对象。JAX-RS将�
 
 * ##### Open new project wizard from **File > New > Maven Project**
 
-
+![](https://github.com/ZhengZhouXu/REST-API/blob/master/img/Create-Maven-Application-Step-1.png)
 
 
